@@ -4,7 +4,7 @@
 
 **Task ID:** L1-05 – LLM Observability and Logging
 
-**Author:** Sumit Taware
+**Author:** Snehal Taware
 
 ---
 
